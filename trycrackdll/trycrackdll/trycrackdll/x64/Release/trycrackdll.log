@@ -1,0 +1,10 @@
+﻿  trycrackdll.cpp
+d:\gituse\crack_auto_branch_feature_calb\crackdetection_semi-automatic\trycrackdll\trycrackdll\trycrackdll\dcs_log.h(35): warning C4251: “CDcd_log::m_mutex”: class“std::mutex”需要有 dll 接口由 class“CDcd_log”的客户端使用
+  D:\VS2015\VC\include\mutex(78): note: 参见“std::mutex”的声明
+  正在生成代码
+  4 of 198 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  trycrackdll.vcxproj -> D:\gituse\Crack_auto_branch_feature_calb\CrackDetection_semi-automatic\trycrackdll\trycrackdll\x64\Release\trycrackdll.exe
+  trycrackdll.vcxproj -> D:\gituse\Crack_auto_branch_feature_calb\CrackDetection_semi-automatic\trycrackdll\trycrackdll\x64\Release\trycrackdll.pdb (Full PDB)

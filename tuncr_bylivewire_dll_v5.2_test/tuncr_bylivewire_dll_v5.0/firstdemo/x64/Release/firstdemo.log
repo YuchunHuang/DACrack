@@ -1,0 +1,68 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  dllmain.cpp
+  getissuespi.cpp
+  GIPI_getCenterline.cpp
+GIPI_getCenterline.cpp(169): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(511): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(523): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(524): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(537): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(544): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(545): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(555): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(556): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(592): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(767): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+GIPI_getCenterline.cpp(912): warning C4305: “初始化”: 从“double”到“float”截断
+GIPI_getCenterline.cpp(995): warning C4244: “=”: 从“long”转换到“short”，可能丢失数据
+GIPI_getCenterline.cpp(996): warning C4244: “=”: 从“long”转换到“short”，可能丢失数据
+GIPI_getCenterline.cpp(997): warning C4244: “=”: 从“long”转换到“short”，可能丢失数据
+GIPI_getCenterline.cpp(998): warning C4244: “=”: 从“long”转换到“short”，可能丢失数据
+GIPI_getCenterline.cpp(1010): warning C4305: “=”: 从“double”到“float”截断
+GIPI_getCenterline.cpp(1187): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+GIPI_getCenterline.cpp(1188): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+GIPI_getCenterline.cpp(1295): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+GIPI_getCenterline.cpp(1296): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+GIPI_getCenterline.cpp(1411): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+GIPI_getCenterline.cpp(1412): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+GIPI_getCenterline.cpp(1529): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+GIPI_getCenterline.cpp(1530): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  GIPI_calcurv.cpp
+GIPI_calcurv.cpp(88): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(89): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(279): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+GIPI_calcurv.cpp(327): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(328): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(329): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(330): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(336): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(337): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(338): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(348): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(350): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(352): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(354): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(356): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(358): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(395): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(396): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(397): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(405): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(406): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(418): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(420): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(424): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(426): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(471): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(568): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(1126): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+GIPI_calcurv.cpp(1146): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+GIPI_calcurv.cpp(1147): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+    正在创建库 ..\..\..\trycrackdll\trycrackdll\trycrackdll\getissuepointsinfo.lib 和对象 ..\..\..\trycrackdll\trycrackdll\trycrackdll\getissuepointsinfo.exp
+  正在生成代码
+d:\gituse\crack_auto_branch_feature_calb\crackdetection_semi-automatic\tuncr_bylivewire_dll_v5.2_test\tuncr_bylivewire_dll_v5.0\firstdemo\getissuespi.cpp(238): warning C4715: “coorsChangebyImgname”: 不是所有的控件路径都返回值
+  All 972 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  firstdemo.vcxproj -> D:\gituse\Crack_auto_branch_feature_calb\CrackDetection_semi-automatic\tuncr_bylivewire_dll_v5.2_test\tuncr_bylivewire_dll_v5.0\firstdemo\..\..\..\trycrackdll\trycrackdll\trycrackdll\getissuepointsinfo.dll
+  firstdemo.vcxproj -> ..\..\..\trycrackdll\trycrackdll\trycrackdll\getissuepointsinfo.pdb (Full PDB)
